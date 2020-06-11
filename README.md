@@ -1,4 +1,3 @@
 # hello-world
-According to GitHub tutorial.
+test stuff
 
-I'm trying to code for Swift, and I want to find out what GitHub actually does.
